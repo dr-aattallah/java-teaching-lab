@@ -1,0 +1,5 @@
+course_code: CPCS-XXX
+course_title: New Course
+language: Java
+modules:
+  - 01-topic

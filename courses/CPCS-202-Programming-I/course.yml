@@ -1,0 +1,12 @@
+course_code: CPCS-202
+course_title: Programming I
+language: Java
+modules:
+  - 01-introduction
+  - 02-elementary-programming
+  - 03-selections
+  - 04-more-java-basics
+  - 05-loops
+  - 06-methods
+  - 07-one-dimensional-arrays
+  - 08-multidimensional-arrays

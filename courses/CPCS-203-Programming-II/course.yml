@@ -1,0 +1,15 @@
+course_code: CPCS-203
+course_title: Programming II
+language: Java
+prerequisite: CPCS-202
+modules:
+  - 00-review-multidimensional-arrays
+  - 01-strings
+  - 02-text-io
+  - 03-objects-and-classes
+  - 04-object-oriented-thinking
+  - 05-inheritance-polymorphism
+  - 06-abstract-classes-interfaces
+  - 07-generics
+  - 08-exception-handling
+  - 09-supporting-topics
